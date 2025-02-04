@@ -1,0 +1,101 @@
+edad,sexo,peso,altura,sintomas,diagnostico
+15,male,72,49,"pérdida de peso,dolor en los oídos,dolor en el pecho,temblor en las manos,dolor en los ojos",anorexia
+66,female,24,134,"tos seca,congestión nasal,dolor al orinar",colitis
+99,male,131,189,"dificultad para dormir,hormigueo en las manos",migraña
+16,female,94,172,"confusión,problemas para masticar,dolor lumbar,tos seca,pérdida de memoria",neuropatía
+41,male,125,172,"pérdida de memoria,dolor al orinar,problemas para masticar",hipotensión
+49,male,105,85,"sudoración nocturna,visión borrosa",prostatitis
+97,male,113,169,"escalofríos,tos seca,falta de concentración",endometriosis
+17,female,80,155,"congestión nasal,dolor en el brazo",delirium
+46,male,39,32,"visión doble,manchas en la piel,tos seca,ansiedad",fatiga crónica
+92,female,36,108,"depresión,tos con flema,dolor en el hombro",hipotensión
+40,male,33,164,"erupción cutánea,calambres musculares,pérdida de apetito",epilepsia
+36,male,56,44,"dolor abdominal,desmayos",fatiga crónica
+96,female,118,179,"dificultad para escuchar,sed excesiva,dolor de mandíbula,uñas quebradizas",indigestión
+5,male,43,191,"dolor lumbar,sensibilidad a la luz",tortícolis
+13,male,141,61,"visión borrosa,dolor en las piernas",cáncer
+4,male,108,130,"dolor en el tobillo,problemas de visión,irritación en la piel,estreñimiento,dolor en el abdomen",escoliosis
+13,female,112,125,"dolor en las piernas,dolor en los ojos,dolor de estómago",urticaria
+55,male,11,184,"náuseas,problemas urinarios,dificultad para caminar",hemoptisis
+10,female,83,50,"hinchazón en el rostro,dolor en los músculos,presión baja",deficiencia de hierro
+90,male,15,102,"dolor de estómago,fatiga",cataratas
+55,female,99,110,"sangrado nasal,tos con flema",hipotensión
+76,female,142,35,"dolor en el brazo,temblor en las manos,tos crónica,fiebre,dolor en las piernas",fatiga crónica
+4,female,4,129,"dolor al tragar,pérdida de apetito,confusión,sibilancias",indigestión
+35,female,22,195,"estreñimiento,tos persistente",tuberculosis
+48,male,19,129,"caída de cabello,pérdida de apetito",hipertiroidismo
+86,female,120,170,"ronquidos,tos con flema",gripe
+93,female,106,81,"ganancia de peso,acidez",osteoporosis
+55,male,83,44,"diarrea,pérdida de cabello",hepatitis C
+16,female,112,87,"dolor de garganta,tos con flema",prostatitis
+58,female,136,198,"pérdida de cabello,temblor en las manos,dolor en el pecho,tos crónica,náuseas",rigidez
+65,male,131,102,"dolor en los oídos,dolor articular,calambres musculares,dolor en los músculos",epistaxis
+46,female,46,76,"problemas digestivos,tos crónica,problemas de visión,dolor de espalda",intoxicación alimentaria
+88,male,113,132,"dolor de espalda,hinchazón en las piernas,vómitos",síndrome de túnel carpiano
+22,female,31,136,"tos con flema,sudoración nocturna",tuberculosis
+71,female,125,124,"falta de aire,dolor en las piernas,dolor al tragar,dificultad para caminar,ganancia de peso",psoriasis
+94,male,19,122,"diarrea,dolor en el tobillo,estreñimiento,problemas para tragar,dolor lumbar",esclerosis múltiple
+11,male,136,185,"problemas de visión,pérdida de peso,sibilancias,fiebre,dificultad para respirar",anemia
+50,male,14,78,"dolor en los músculos,diarrea",insuficiencia renal
+94,female,10,45,"tos seca,irritación en la piel,tos con sangre,caída de cabello",tortícolis
+46,male,70,125,"congestión nasal,problemas urinarios,caída de cabello,dificultad para dormir",hepatitis B
+30,female,148,141,"dolor al orinar,irritación en la piel,vómitos,dolor en el abdomen,dolor en el hombro",cáncer de piel
+51,female,130,95,"problemas urinarios,falta de aire,dolor articular,dolor de estómago,cansancio",colitis
+46,female,130,93,"tos seca,congestión nasal,dolor en el abdomen",epilepsia
+24,female,117,47,"dolor de garganta,tos seca,sibilancias,problemas para masticar,dolor al tragar",gingivitis
+28,female,96,178,"uñas quebradizas,dolor en las articulaciones",glaucoma
+81,female,39,154,"calambres musculares,dolor abdominal,irritación en la piel,falta de aire",fibrosis pulmonar
+52,female,51,198,"dificultad para respirar,dolor en el pecho,náuseas,hinchazón en el rostro,tos seca",demencia
+37,male,118,138,"manchas en los dientes,visión borrosa,sangrado nasal,dolor de espalda",colitis
+7,male,46,189,"pérdida de cabello,dolor en las articulaciones,ansiedad,dolor de oído",desprendimiento de retina
+54,male,121,144,"piel amarilla,tos",cistitis
+87,male,139,101,"dolor en los oídos,acidez",epistaxis
+89,female,143,76,"manchas en los dientes,cansancio,sensibilidad a la luz,uñas quebradizas",epilepsia
+84,male,147,107,"tos con sangre,vómitos,rigidez muscular",faringitis
+4,female,99,86,"dolor de estómago,dolor en los ojos,hambre excesiva",dolor ciático
+83,male,45,52,"irritación en la piel,manchas en los dientes",melanoma
+53,male,26,136,"manchas en los dientes,erupción cutánea,pérdida de peso,problemas digestivos,dolor en los músculos",fatiga crónica
+82,female,85,148,"dolor en los músculos,tos con flema,dolor en las piernas",cáncer
+43,male,128,189,"presión alta,calambres musculares,debilidad",gingivitis
+88,female,14,191,"ganancia de peso,sed excesiva,dolor en el abdomen,rigidez muscular",neuropatía
+1,male,121,57,"dolor articular,dolor en los músculos,hinchazón en el rostro",infección urinaria
+88,female,23,107,"pérdida de peso,manchas en los dientes",enfisema pulmonar
+64,female,9,189,"dolor de estómago,sensibilidad a la luz,palpitaciones,dolor en los músculos,dolor en la muñeca",faringitis
+52,male,149,47,"dolor en el hombro,diarrea",celulitis
+32,female,126,65,"dolor de cabeza,sequedad en la boca,náuseas,tos seca",arritmia cardíaca
+85,male,40,164,"sensibilidad a la luz,visión borrosa,dolor de mandíbula",arritmia
+80,male,32,60,"dolor en el pecho,pérdida de memoria,escalofríos,tos",ataxia
+27,male,21,59,"hinchazón en las piernas,hinchazón en el rostro,dolor en los músculos,cansancio",colitis
+79,female,115,179,"vómitos,sensibilidad a la luz,temblor en las manos,problemas para masticar,tos crónica",temblor esencial
+1,female,36,88,"dolor lumbar,piel pálida,problemas digestivos,caída de cabello",rigidez
+48,female,112,124,"depresión,dolor de cuello",intoxicación alimentaria
+2,female,63,181,"sibilancias,calambres musculares,uñas quebradizas,ganancia de peso,dolor en las piernas",candidiasis
+90,female,57,85,"dolor abdominal,escalofríos,piel amarilla,dolor de garganta",síncope
+59,male,34,98,"fiebre,problemas de visión,presión baja,dolor en los músculos",hemoptisis
+29,female,126,120,"hinchazón en el rostro,hambre excesiva,dolor de lengua",enfermedad de Crohn
+33,female,139,144,"rigidez muscular,caída de cabello,dolor de pecho,palpitaciones",hipertiroidismo
+11,male,122,149,"temblor en las manos,náuseas,dificultad para dormir,dolor al tragar",alopecia
+59,female,148,159,"dolor en los oídos,diarrea,problemas urinarios,náuseas,fatiga",lupus
+90,female,6,132,"sed excesiva,dolor de garganta",cáncer
+85,male,12,68,"dolor en el brazo,dolor en los oídos,problemas digestivos,náuseas,piel pálida",infarto
+69,male,72,127,"calambres musculares,pérdida de memoria",alopecia
+26,female,19,41,"ansiedad,dolor en el tobillo,dolor al tragar",desprendimiento de retina
+98,male,85,88,"dolor de cabeza,problemas para masticar,presión baja",estreñimiento
+100,female,14,157,"piel amarilla,pérdida de peso,ronquidos",lumbalgia
+49,female,124,180,"dolor en las piernas,hinchazón en el rostro",hepatitis C
+4,male,62,156,"somnolencia,dolor de mandíbula,dolor de oído",artritis
+94,male,111,161,"dolor articular,hinchazón en las piernas",síndrome metabólico
+79,female,84,165,"dolor de cabeza,problemas urinarios",epilepsia
+69,male,134,114,"uñas quebradizas,dolor en el hombro",celulitis
+72,female,101,157,"hinchazón en las piernas,dificultad para caminar",angina de pecho
+9,male,119,132,"temblor en las manos,dolor de mandíbula",enfisema pulmonar
+1,female,23,124,"dolor de espalda,tos persistente,dolor en la muñeca",hipertiroidismo
+87,female,4,34,"piel pálida,dolor de pecho,tos persistente,dolor en el brazo,dolor en el hombro",arritmia
+4,female,56,172,"falta de aire,desmayos,dificultad para caminar",rigidez
+73,female,39,119,"dolor de estómago,sangrado nasal",faringitis
+91,female,115,124,"acidez,hambre excesiva,dificultad para escuchar,problemas para tragar,rigidez muscular",alopecia
+73,female,103,120,"dolor en el tobillo,ansiedad,somnolencia",epilepsia
+51,male,8,83,"dolor de espalda,problemas urinarios,dolor de oído,hormigueo en las extremidades",raquitismo
+23,male,76,199,"problemas de visión,pérdida de apetito,problemas digestivos",hepatitis C
+31,female,25,127,"problemas de visión,erupción cutánea",lumbalgia
+8,female,61,192,"caída de cabello,problemas de visión,dolor de garganta",angina de pecho
